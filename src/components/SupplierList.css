@@ -1,0 +1,38 @@
+.supplier-container {
+    background: linear-gradient(135deg, #42e695, #3bb2b8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2, h3 {
+    color: #fff;
+  }
+  
+  table {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    text-align: left;
+  }
+  
+  th {
+    background: rgba(0, 0, 0, 0.2);
+  }
+  
+  tr:hover {
+    background: rgba(255, 255, 255, 0.2);
+  }
+  
+  input, button {
+    margin: 5px;
+  }
+  
